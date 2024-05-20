@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F47E51-FD83-49B2-9BC0-A22AB309F34B}|Floyd\\Floyd.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F47E51-FD83-49B2-9BC0-A22AB309F34B}|Floyd\\Floyd.vcxproj|solutionrelative:Floyd\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F47E51-FD83-49B2-9BC0-A22AB309F34B}|Floyd\\Floyd.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0F47E51-FD83-49B2-9BC0-A22AB309F34B}|Floyd\\Floyd.vcxproj|solutionrelative:Floyd\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Text.txt",
+              "RelativeDocumentMoniker": "Floyd\\Text.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Text.txt",
+              "RelativeToolTip": "Floyd\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-10T18:20:05.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Source.cpp",
+              "RelativeDocumentMoniker": "Floyd\\Source.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Floyd\\Floyd\\Source.cpp",
+              "RelativeToolTip": "Floyd\\Source.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T18:19:57.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
